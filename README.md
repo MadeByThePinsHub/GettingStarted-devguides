@@ -1,7 +1,16 @@
 # Dev Guides - Getting Started
 
-Welcome to your first Dev Guides on the Pins team! This assignment is your first assignment in our **Dev Guides** classroom. To see all of our classrooms and other nifty things, 
+Welcome to your first **Dev Guides** on the Pins team! This assignment is your fist assignment in our **Dev Guides** classroom and this aims to learn the basics about Git and GitHub and learn you how to coding. Once joined to our main GitHub organixzation, you'll also grant access to our assignments and classrooms.
 
-## Getting Started
-- [Accept the challenge by clicking here](https://classroom.github.com/a/yDegC1Dc). You must sign in using your GitHub account when prompted.
-- 
+## Setting up your workspace
+- Sign in or create your [GitHub account](https://github.com) firzt.
+- Accept the assignment by [clicking here](https://classroom.github.com/a/yDegC1Dc). (Accept permissions for the GitHub Classroom OAuth app if you're on GitHub Classroom for the first time.)
+- Once accepted, GitHub elves will create your own individual repository from [an template repository](https://github.com/MadeByThePinsHub/GettingStarted-devguides/). When done, access them at `https://github.com/MadeByThePinsHub/dev-guides-gettingstarted-yourusernamehere` where `yourusername` is your GitHUb username.
+- Additonally, install Git and Atom for your computer to get things started as we're using them throughout the assignment. ([See this mini guide](https://github.com/github-campus-advisors/Campus-Advisor-Training#to-get-started) for more info.)
+- (Optional) Join our
+
+## Improving the `GettingStarted-devguides` repository
+It is beneficial that you take advantage of the resources presented to you, but Andrei Jiroh would also recommend that if you find instances where things can be improved, then please create an issue in the original repository [here](https://github.com/MadeByThePinsHub/GettingStarted-devguides/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
+
+## Working on GitLab?
+We'll working to make this available on GitLab soon.
