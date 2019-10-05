@@ -13,7 +13,7 @@ In this module you will be introduced to Git. This module will cover:
 
 ## Lessons
 
-**All assignment files can be found at the top of the page.**
+**All module Markdown files can be found at this directory, alongside with this file. Using GitHub? Just you can see the file above this README preview.**
 
 ### Module 1.1: Meet Git
 
