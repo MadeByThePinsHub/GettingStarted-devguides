@@ -3,7 +3,7 @@ name: Module Assignment Question Multiple-use
 about: Use this template to answer your Module Assignment questions. [Multiple-use
   only]
 title: Module X.Y Assignment
-labels: ''
+labels: assignments
 assignees: malaspinsphgithubph, AndreiJirohHaliliDev2006
 
 ---
