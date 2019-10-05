@@ -3,7 +3,7 @@
 Welcome to your first **Dev Guides** on the Pins team! This assignment is your fist assignment in our **Dev Guides** classroom and this aims to learn the basics about Git and GitHub and learn you how to coding. Once joined to our main GitHub organixzation, you'll also grant access to our assignments and classrooms.
 
 ## Setting up your workspace
-- Sign in or create your [GitHub account](https://github.com) firzt.
+- Sign in or create your [GitHub account](https://github.com) first.
 - Accept the assignment by [clicking here](https://classroom.github.com/a/yDegC1Dc). (Accept permissions for the GitHub Classroom OAuth app if you're on GitHub Classroom for the first time.)
 - Once accepted, GitHub elves will create your own individual repository from [an template repository](https://github.com/MadeByThePinsHub/GettingStarted-devguides/). When done, access them at `https://github.com/MadeByThePinsHub/dev-guides-gettingstarted-yourusernamehere` where `yourusername` is your GitHUb username.
 - Additonally, install Git and Atom for your computer to get things started as we're using them throughout the assignment. ([See this mini guide](https://github.com/github-campus-advisors/Campus-Advisor-Training#to-get-started) for more info.)
@@ -21,4 +21,4 @@ It is beneficial that you take advantage of the resources presented to you, but 
 :notebook: - Read an quick review Markdown file or do an assignment.
 
 ## Working on GitLab?
-We'll working to make this available on GitLab soon.
+We'll working to make this available on GitLab soon, but for now, let's focus your minds on GitHub first.
