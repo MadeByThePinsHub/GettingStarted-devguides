@@ -2,6 +2,8 @@
 
 Welcome to your first **Dev Guides** on the Pins team! This assignment is your fist assignment in our **Dev Guides** classroom and this aims to learn the basics about Git and GitHub and learn you how to coding. Once joined to our main GitHub organixzation, you'll also grant access to our assignments and classrooms.
 
+To get started, [:tv: watch your first video here first.](https://youtu.be)
+
 ## Setting up your workspace
 - Sign in or create your [GitHub account](https://github.com) first.
 - Accept the assignment by [clicking here](https://classroom.github.com/a/yDegC1Dc). (Accept permissions for the GitHub Classroom OAuth app if you're on GitHub Classroom for the first time.)
