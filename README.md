@@ -18,9 +18,13 @@ It is beneficial that you take advantage of the resources presented to you, but 
 
 ## Emoji Help
 
-:tv: - Watch an video
+:tv: - Video Watching
 
-:notebook: - Read an quick review Markdown file or do an assignment.
+:notebook: - Quick Review/Transcript
+
+:house: - Homework
+
+:construction: - Hand-on Activity
 
 ## Working on GitLab?
 We'll working to make this available on GitLab soon, but for now, let's focus your minds on GitHub first.
