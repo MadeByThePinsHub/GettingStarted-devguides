@@ -70,7 +70,7 @@ You will see these hash values all over the place in Git because it uses them so
 When you do actions in Git, nearly all of them only add data to the Git database. It is hard to get the system to do anything that is not undoable or to make it erase data in any way. As with any VCS, you can lose or mess up changes you haven’t committed yet, but after you commit a snapshot into Git, it is very difficult to lose, especially if you regularly push your database to another repository. (Unless you do some hard work there like making your own Git using from source.)
 
 ### The Three States
-> We'll also learn about this on [Module 1.2: The Three State Model[(https://github.com/MadeByThePinsHub/GettingStarted-devguides/blob/master/Module%201:%20Git%20Basics/Module%201.2:%20The%20Three%20State%20Model.md.
+> We'll also learn about this on [Module 1.2: The Three State Model](./Module 1 - Git Basics/Module 1.2 - The Three State Model.md).
 
 
 ## Post-Mortem: Your Module 1.1 Assignment
